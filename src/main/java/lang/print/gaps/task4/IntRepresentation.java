@@ -3,19 +3,19 @@ package lang.print.gaps.task4;
 public class IntRepresentation {
     public static void main(String[] args) {
 
-        char c1 = 'c';
-        char c2 = 'h';
-        char c3 = 'a';
-        char c4 = 'r';
+        char c = 'c';
+        char h = 'h';
+        char a = 'a';
+        char r = 'r';
 
-        int a1 = (int) c1;
-        int a2 = (int) c2;
-        int a3 = (int) c3;
-        int a4 = (int) c4;
+        int intC = (int) c;
+        int intH = (int) h;
+        int intA = (int) a;
+        int intR = (int) r;
 
-        System.out.println(a1);
-        System.out.println(a2);
-        System.out.println(a3);
-        System.out.println(a4);
+        System.out.println(intC);
+        System.out.println(intH);
+        System.out.println(intA);
+        System.out.println(intR);
     }
 }
